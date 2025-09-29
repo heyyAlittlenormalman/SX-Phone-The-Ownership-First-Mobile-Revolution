@@ -1,3 +1,6 @@
+[![Status: Vision Phase](https://img.shields.io/badge/Status-Vision_Phase-blueviolet)](https://github.com/heyyAlittlenormalman/SX-Phone-The-Ownership-First-Mobile-Revolution) 
+[![Project: Radical Ownership](https://img.shields.io/badge/Project-Radical_Ownership-red)](https://github.com/heyyAlittlenormalman/SX-Phone-The-Ownership-First-Mobile-Revolution)
+[![Approach: Hardware-First](https://img.shields.io/badge/Approach-Hardware--First-orange)](https://github.com/heyyAlittlenormalman/SX-Phone-The-Ownership-First-Mobile-Revolution)
 # SX-Phone-The-Ownership-First-Mobile-Revolution
 The mobile device where you are the owner. A vision for radical ownership and transparency.
 
